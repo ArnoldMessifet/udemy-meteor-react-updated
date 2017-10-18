@@ -1,0 +1,12 @@
+/* CSS declarations go here */
+.is-active {
+    font-weight: bold;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-between;
+}
+.menu ul li {
+    flex: 1;
+}
